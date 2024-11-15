@@ -1,6 +1,6 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
+company: "Microsoft"
+role: "Cloud Solution Architect"
 dateStart: "11/27/2022"
 dateEnd: "Current"
 ---

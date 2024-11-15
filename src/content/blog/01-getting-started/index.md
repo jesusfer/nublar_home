@@ -10,7 +10,7 @@ Edit `src/consts.ts`
 
 Customize the base site
 
-```ts 
+```ts
 // src/consts.ts
 
 export const SITE: Site = {
@@ -32,7 +32,7 @@ export const SITE: Site = {
 
 Customize your page metadata
 
-```ts 
+```ts
 // src/consts.ts
 
 export const HOME: Metadata = {
@@ -48,7 +48,7 @@ export const HOME: Metadata = {
 
 Customize your social media
 
-```ts 
+```ts
 // src/consts.ts
 
 export const SOCIALS: Socials = [
